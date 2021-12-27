@@ -172,9 +172,10 @@
                             </div>
                             <div v-if="success !== null" role="alert">
                                 <div  class="mb-6"><img :src="'/'+qrCode"></div>
-                                <Link
+                                <a
                                     :href="'/'+qrCode" v-text="'Download'"
                                     class="bg-blue-500 mt-4 rounded-3xl px-5 py-2 text-white"
+                                    download
                                 />
                             </div>
                         </div>

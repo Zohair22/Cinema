@@ -1154,13 +1154,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Blog_vue_vue_type_template_id_5ff005cb__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Blog.vue?vue&type=template&id=5ff005cb */ "./resources/js/Pages/Blog.vue?vue&type=template&id=5ff005cb");
 /* harmony import */ var _Blog_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Blog.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Pages/Blog.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Blog_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Blog_vue_vue_type_template_id_5ff005cb__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Blog.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Blog_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Blog_vue_vue_type_template_id_5ff005cb__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Blog.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1181,13 +1181,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _HomeFooter_vue_vue_type_template_id_955bc294__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./HomeFooter.vue?vue&type=template&id=955bc294 */ "./resources/js/Shared/HomeFooter.vue?vue&type=template&id=955bc294");
 /* harmony import */ var _HomeFooter_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HomeFooter.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/HomeFooter.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_HomeFooter_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_HomeFooter_vue_vue_type_template_id_955bc294__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/HomeFooter.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_HomeFooter_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_HomeFooter_vue_vue_type_template_id_955bc294__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/HomeFooter.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1208,13 +1208,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _BuyTicket_vue_vue_type_template_id_efe67272__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./BuyTicket.vue?vue&type=template&id=efe67272 */ "./resources/js/Shared/Movie/BuyTicket.vue?vue&type=template&id=efe67272");
 /* harmony import */ var _BuyTicket_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./BuyTicket.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/BuyTicket.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BuyTicket_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BuyTicket_vue_vue_type_template_id_efe67272__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/BuyTicket.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BuyTicket_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BuyTicket_vue_vue_type_template_id_efe67272__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/BuyTicket.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1235,13 +1235,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Description_vue_vue_type_template_id_43e77151__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Description.vue?vue&type=template&id=43e77151 */ "./resources/js/Shared/Movie/Description.vue?vue&type=template&id=43e77151");
 /* harmony import */ var _Description_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Description.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/Description.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Description_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Description_vue_vue_type_template_id_43e77151__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Description.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Description_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Description_vue_vue_type_template_id_43e77151__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Description.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1262,13 +1262,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Footer_vue_vue_type_template_id_424e47d6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Footer.vue?vue&type=template&id=424e47d6 */ "./resources/js/Shared/Movie/Footer.vue?vue&type=template&id=424e47d6");
 /* harmony import */ var _Footer_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Footer.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/Footer.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Footer_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Footer_vue_vue_type_template_id_424e47d6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Footer.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Footer_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Footer_vue_vue_type_template_id_424e47d6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Footer.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1289,13 +1289,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Header_vue_vue_type_template_id_6380abc8__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Header.vue?vue&type=template&id=6380abc8 */ "./resources/js/Shared/Movie/Header.vue?vue&type=template&id=6380abc8");
 /* harmony import */ var _Header_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Header.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/Header.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Header_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Header_vue_vue_type_template_id_6380abc8__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Header.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Header_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Header_vue_vue_type_template_id_6380abc8__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Header.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1316,13 +1316,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Information_vue_vue_type_template_id_56cc4a81__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Information.vue?vue&type=template&id=56cc4a81 */ "./resources/js/Shared/Movie/Information.vue?vue&type=template&id=56cc4a81");
 /* harmony import */ var _Information_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Information.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/Information.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Information_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Information_vue_vue_type_template_id_56cc4a81__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Information.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Information_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Information_vue_vue_type_template_id_56cc4a81__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Information.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1343,13 +1343,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Photo_vue_vue_type_template_id_71f5b247__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Photo.vue?vue&type=template&id=71f5b247 */ "./resources/js/Shared/Movie/Photo.vue?vue&type=template&id=71f5b247");
 /* harmony import */ var _Photo_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Photo.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/Photo.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Photo_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Photo_vue_vue_type_template_id_71f5b247__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Photo.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Photo_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Photo_vue_vue_type_template_id_71f5b247__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Photo.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1370,13 +1370,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Times_vue_vue_type_template_id_b0885d4a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Times.vue?vue&type=template&id=b0885d4a */ "./resources/js/Shared/Movie/Times.vue?vue&type=template&id=b0885d4a");
 /* harmony import */ var _Times_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Times.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movie/Times.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Times_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Times_vue_vue_type_template_id_b0885d4a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Times.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Times_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Times_vue_vue_type_template_id_b0885d4a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movie/Times.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1397,13 +1397,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _MovieComments_vue_vue_type_template_id_35dc4598__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./MovieComments.vue?vue&type=template&id=35dc4598 */ "./resources/js/Shared/MovieComments.vue?vue&type=template&id=35dc4598");
 /* harmony import */ var _MovieComments_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./MovieComments.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/MovieComments.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_MovieComments_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_MovieComments_vue_vue_type_template_id_35dc4598__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/MovieComments.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_MovieComments_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_MovieComments_vue_vue_type_template_id_35dc4598__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/MovieComments.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1424,13 +1424,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Movies_vue_vue_type_template_id_28d40fc2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Movies.vue?vue&type=template&id=28d40fc2 */ "./resources/js/Shared/Movies.vue?vue&type=template&id=28d40fc2");
 /* harmony import */ var _Movies_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Movies.vue?vue&type=script&setup=true&lang=js */ "./resources/js/Shared/Movies.vue?vue&type=script&setup=true&lang=js");
-/* harmony import */ var _Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Desktop_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Movies_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Movies_vue_vue_type_template_id_28d40fc2__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movies.vue"]])
+const __exports__ = /*#__PURE__*/(0,_Users_zohairosama_Files_Tenguu_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Movies_vue_vue_type_script_setup_true_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Movies_vue_vue_type_template_id_28d40fc2__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Shared/Movies.vue"]])
 /* hot reload */
 if (false) {}
 
