@@ -14,10 +14,10 @@
                     </div>
                 </div>
                 <div class="mb-6">
-                    Example@mail.com
+                    tenguu54@mail.com
                 </div>
                 <div>
-                    +1264387539
+                    +201117054078
                 </div>
 
             </div>
