@@ -85,7 +85,7 @@
                             :disabled="form.processing"
                             type="submit"
                         >
-                            Send ur Message
+                            Send your Message
                         </button>
                     </div>
                 </form>
