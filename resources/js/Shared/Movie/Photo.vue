@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img :src="'/storage/' + movie.photo" class="rounded-3xl w-full" :style="style">
+        <img :src="'/storage/' + movie.photo" class="rounded-3xl w-full h-full" :style="style">
     </div>
 </template>
 
